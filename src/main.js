@@ -62,7 +62,7 @@ const router = new VueRouter({
     { path: "/NewS", component: NewS }, 
   ],
 });
-
+//render the app
 new Vue({
   router,
   vuetify,
